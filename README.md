@@ -2,7 +2,7 @@
 最新版本：2.5.3
 
 ## 更新历史
-[查看更新历史链接](https://github.com/eju-EIL/EIL_h5Player/releases)
+[查看更新历史链接](https://github.com/ejups/epsH5Player/releases)
 
 ### 播放器初始化参数
 | 参数 |	值类型	| 说明|	默认值|	是否必填|
